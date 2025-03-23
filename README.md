@@ -188,14 +188,14 @@ If your "Unreleased" section has no version, you can specify it as an argument:
 changelog --release 2.0.0
 ```
 
-Return the latest released version:
+Print the latest released version:
 
 ```sh
 changelog --latest-release
 > 2.0.0
 ```
 
-Return the latest released:
+Print the latest release:
 
 ```text
 changelog --latest-release-full
